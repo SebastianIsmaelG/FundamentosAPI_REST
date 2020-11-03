@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "titulo":"Aliens",
+        "director":"James Cameron",
+        "año":"1986",
+        "calificacion":"8.5"
+
+    },
+    {
+        "id":"2",
+        "titulo":"The Dark Night",
+        "director":"Cristopher Nolan",
+        "año":"2008",
+        "calificacion":"10"
+
+    }
+]
